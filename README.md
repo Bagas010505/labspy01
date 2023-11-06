@@ -20,5 +20,11 @@ Latihan 1
 
 Buat program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if.
 
+Latihan 2
+
+Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
+
+(list.sort) Syntax ini berfungsi untuk mengurutkan data
+
 
 
