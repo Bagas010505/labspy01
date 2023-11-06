@@ -39,6 +39,18 @@ Untuk menampikan hasil dari perulangan agar terlihat rapih menggunakan (format s
 
 Untuk menampikan hasil dari perulangan agar tidak membuat baris baru menggunakan (end='') (baris)
 
+Latihan 2
+
+Tampilkan n bilangan acak yang lebih kecil dari 0.5. nilai n diisi pada saat runtime anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya.
+
+(import random) Untuk membuat bilangan acak
+
+jum = int(input("Masukan nilai: ")) Menentukan jumlah input & di konversikan dalam bilangan bulat-dimasukan ke variable jum/jumlah
+
+while i in range(jum) Pengulangan
+
+Menampilkan urutan sesuai inputan dengan hasil di bawah 0.5
+
 
 
 
