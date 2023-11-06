@@ -26,5 +26,19 @@ Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 v
 
 (list.sort) Syntax ini berfungsi untuk mengurutkan data
 
+LAB 3
+Latihan 1
+
+Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
+
+Pendeklarasian variable
+
+Untuk perulangan baris dan kolom menggunakan (for)
+
+Untuk menampikan hasil dari perulangan agar terlihat rapih menggunakan (format string) rata ke kanan sebanyak 5 karakter
+
+Untuk menampikan hasil dari perulangan agar tidak membuat baris baru menggunakan (end='') (baris)
+
+
 
 
