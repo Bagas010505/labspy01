@@ -1,5 +1,6 @@
 # labspy02
 #Praktikum 2
+
 input bilangan sebanyak 3 buah inputan.
 
 Setelah bilangan di masukkan, maka program akan membandingkan ke 3 buah bilangan tersebut.
